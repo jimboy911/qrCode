@@ -8,7 +8,10 @@ pip install "qrcode[pil]" <<< this installs qrcode into your environment
 ------
 
 20240126 - it works!
-next: 
-    ask user to type in website and have it generate a qr code for that
-    timestamp the qr code file
+    ask user to type in website and have it generate a qr code for that > done
+    timestamp the qr code file > done
+
+---------
+
+20240127 - Next:    
     turn it into a flask app
